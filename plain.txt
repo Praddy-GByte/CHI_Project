@@ -1,0 +1,27 @@
+ColoradoRiverDroughtVisualization/
+├── data/
+│   ├── ground_observations/
+│   │   ├── snotel_CAP.csv
+│   │   ├── snotel_metadata.csv
+│   ├── satellite_data/
+│   │   ├── hydrologic.nc
+│   │   ├── CRB_PRISM_Calibrated.nc
+│   │   ├── GRCTellus.JPL.200204_202401.GLO.RL06.nc
+│   │   ├── SPL4SMGP.007_9km_aid0001.nc
+│   ├── processed_data/
+│   │   ├── subbasins.geojson
+│   │   ├── CRB_poly.geojson
+│   ├── model_output/
+│   │   ├── VICOut2.nc
+├── scripts/
+│   ├── data_preprocessing.R
+│   ├── data_visualization.R
+│   ├── modeling.R
+│   └── ui.R
+├── www/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── app.R
+├── README.md
+└── .gitignore
