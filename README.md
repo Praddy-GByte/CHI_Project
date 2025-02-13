@@ -18,4 +18,4 @@ This dashboard provides insights into the drought conditions of the Colorado Riv
 3. Visit the "Maps" tab for geographic insights.
 
 ## Contact
-For feedback or questions, reach out to: `your_email@example.com`.
+For feedback or questions, reach out to: pkaushi5@asu.edu
